@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":586},
+{"id":2,"expanded":true,"name":"鉱山都市","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1574},
+{"id":3,"expanded":true,"name":"宿屋1F","order":3,"parentId":2,"scrollX":1228.5,"scrollY":659.25},
+{"id":4,"expanded":false,"name":"武器屋","order":4,"parentId":2,"scrollX":1228.5,"scrollY":659.25},
+{"id":5,"expanded":false,"name":"防具屋","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"道具屋","order":6,"parentId":2,"scrollX":1228.5,"scrollY":659.25},
+{"id":7,"expanded":false,"name":"村の民家1F","order":7,"parentId":2,"scrollX":1228.5,"scrollY":659.25},
+{"id":8,"expanded":false,"name":"研究室","order":8,"parentId":2,"scrollX":1228.5,"scrollY":659.25}
+]
